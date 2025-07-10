@@ -18,4 +18,4 @@
 
 <br>
 
-![Snake animation](https://github.com/karaz0v/karaz0v/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/cruzzzdev/cruzzzdev/blob/output/github-contribution-grid-snake.svg)
