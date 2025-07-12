@@ -1,5 +1,5 @@
 <h1 align="left"> Hi, I'm José</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cruzzzdev&color=green" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karaz0v&color=green" alt="Profile views" /> </p>
 
 
 - ⚡ Better than the first coffee of the day, just the second.
