@@ -5,6 +5,7 @@
 - ⚡ Better than the first coffee of the day, just the second.
 - 🔥 Junior Front-End, creating modern and intuitive interfaces.
 - 🌱 Collaborating on private projects.
+- 🤖 Solid programming foundation, using AI to speed up workflows and improve productivity.
 
 <br>
 
